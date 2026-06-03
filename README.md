@@ -1,5 +1,5 @@
 
-# Largest Countries Analysis (Power BI Dashboard)
+# Global Countries Analytics Dashboard (Power BI Dashboard)
 
 ### Dashboard File : The dashboard can be simply downloaded from the files section above.
 
